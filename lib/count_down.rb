@@ -2,7 +2,7 @@
 #After 1 is displayed the system will display Happy New Year!
 magic_exit_number = 1
 count = 0  #we have to start at 0
-while count < 10 
+while count < 10
   puts count
   count = count += 1
 end
